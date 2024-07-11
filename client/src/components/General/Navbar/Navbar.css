@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.Navbar h2 {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    color: #f4803a;
+    font-style: normal;
+}
+
+.--Navbar-content {
+    display: flex;
+    gap: 2rem;
+    font-weight: 300;
+}
+
+.--Navbar-button {
+    display: flex;
+    gap: 10px;
+}
+
+.--Navbar-button button {
+    padding: 7px;
+    color: white;
+    background: #f4803a;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}

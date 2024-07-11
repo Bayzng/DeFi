@@ -1,0 +1,68 @@
+.Content {
+    padding: 40px;
+}
+
+.--Content-Header {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.--Content-Header h3 {
+    margin-top: 3rem;
+}
+
+.--content-Steps {
+    display: flex;
+}
+
+.--Content-Steps-Info {
+    text-align: center;
+    padding: 5rem;
+}
+
+.--Content-Steps-Info img {
+    width: 15rem;
+}
+
+.--Content-Steps-Info h4 {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    font-size: 25px;
+    position: relative;
+    color: #f4803a;
+    border-radius: 12px;
+    margin-left: 2.2rem;
+    margin-top: -2.5rem;
+}
+
+.steps h4 {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    font-size: 25px;
+    position: relative;
+    color: #f4803a;
+    border-radius: 12px;
+    margin-left: 6rem;
+    margin-top: -2.5rem;
+}
+
+.step h4 {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    font-size: 25px;
+    position: relative;
+    color: #f4803a;
+    border-radius: 12px;
+    margin-left: 3.3rem;
+    margin-top: -2.5rem;
+}
+
+.--Content-Steps-Info h3 {
+    margin-top: 3rem;
+}
+.--Content-Steps-Info p {
+    margin-top: 1rem;
+}
